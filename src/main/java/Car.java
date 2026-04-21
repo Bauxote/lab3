@@ -17,8 +17,7 @@ public class Car {
      * @param acceleration   0-100 km/h time in seconds
      * @param numberOfDoors  number of doors
      */
-    public Car(String name, int productionYear, float topSpeed,
-               float acceleration, int numberOfDoors) {
+    public Car(String name, int productionYear, float topSpeed, float acceleration, int numberOfDoors) {
         this.name = name;
         this.productionYear = productionYear;
         this.topSpeed = topSpeed;
