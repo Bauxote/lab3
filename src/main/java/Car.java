@@ -2,11 +2,11 @@ import java.util.Objects;
 
 public class Car {
 
-    String name;
-    int productionYear;
-    float topSpeed;
-    float acceleration;
-    int numberOfDoors;
+    public String name;
+    public int productionYear;
+    public float topSpeed;
+    public float acceleration;
+    public int numberOfDoors;
 
     /**
      * Constructs a new Car with all characteristics.
