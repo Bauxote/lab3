@@ -10,3 +10,5 @@ https://bauxote.github.io/lab3/
 
 ## Відео
 
+https://github.com/user-attachments/assets/e746e100-11d9-45e2-90d8-e423663f48ab
+
